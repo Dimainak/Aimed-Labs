@@ -47,7 +47,7 @@ const Input = styled.input`
   font-size: 16px;
   border: 1px solid #2196F3;
   border-radius: 5px;
-  margin-bottom: 10px; /* Adjusted margin */
+  margin-bottom: 10px; 
 `;
 
 const ToggleButton = styled.button`
@@ -67,7 +67,7 @@ const Link = styled.a`
   color: #2196F3;
   font-size: 14px;
   cursor: pointer;
-  margin-left: auto; /* Align to the right */
+  margin-left: auto;
 `;
 
 const CheckboxContainer = styled.div`
